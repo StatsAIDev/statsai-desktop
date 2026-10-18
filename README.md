@@ -11,5 +11,5 @@ its built-in updater reads. It contains no source code.
 Every build is signed with a Developer ID certificate and notarized by Apple.
 
 The command-line tool the app bundles is
-[statsai](https://github.com/StatsAIDev/statsai), licensed under Apache-2.0.
+[statsai](https://github.com/starkdmi/statsai), licensed under Apache-2.0.
 The app's third-party notices are under Settings → About.
